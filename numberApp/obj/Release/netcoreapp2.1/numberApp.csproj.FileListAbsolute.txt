@@ -1,0 +1,11 @@
+C:\Users\Lassi\source\repos\numberApp\bin\Release\netcoreapp2.1\numberApp.deps.json
+C:\Users\Lassi\source\repos\numberApp\bin\Release\netcoreapp2.1\numberApp.runtimeconfig.json
+C:\Users\Lassi\source\repos\numberApp\bin\Release\netcoreapp2.1\numberApp.runtimeconfig.dev.json
+C:\Users\Lassi\source\repos\numberApp\bin\Release\netcoreapp2.1\numberApp.dll
+C:\Users\Lassi\source\repos\numberApp\bin\Release\netcoreapp2.1\numberApp.pdb
+C:\Users\Lassi\source\repos\numberApp\bin\Release\netcoreapp2.1\numberApp.xml
+C:\Users\Lassi\source\repos\numberApp\obj\Release\netcoreapp2.1\numberApp.csproj.CoreCompileInputs.cache
+C:\Users\Lassi\source\repos\numberApp\obj\Release\netcoreapp2.1\numberApp.AssemblyInfoInputs.cache
+C:\Users\Lassi\source\repos\numberApp\obj\Release\netcoreapp2.1\numberApp.AssemblyInfo.cs
+C:\Users\Lassi\source\repos\numberApp\obj\Release\netcoreapp2.1\numberApp.dll
+C:\Users\Lassi\source\repos\numberApp\obj\Release\netcoreapp2.1\numberApp.pdb
